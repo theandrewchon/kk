@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,GACE,oBACF,CAEA,YACE,WACF","file":"main.d191d81b.chunk.css","sourcesContent":[".b {\n  border: 1px red solid;\n}\n\n.inputWidth {\n  width: 300px;\n}\n"]}
